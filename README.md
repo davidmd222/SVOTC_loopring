@@ -6,7 +6,7 @@
 - Step 2.   Connect wallet to access DEX <br>
 - Step 3.   Trade <br>
 ![](
-        https://github.com/davidmd222/SVOTC_loopring/blob/master/Screen%20Shot%202018-10-07%20at%208.58.43%20AM.png
+        https://github.com/davidmd222/SVOTC_loopring/blob/master/Screen%20Shot%202018-10-07%20at%209.21.17%20AM.png
       )
 
 ![](
