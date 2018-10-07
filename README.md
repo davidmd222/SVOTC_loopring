@@ -6,11 +6,11 @@
 - Step 2.   Connect wallet to access DEX <br>
 - Step 3.   Trade <br>
 ![](
-        SVOTC_loopring/Screen Shot 2018-10-07 at 8.58.43 AM.png
+        https://github.com/davidmd222/SVOTC_loopring/blob/master/Screen%20Shot%202018-10-07%20at%208.58.43%20AM.png
       )
 
 ![](
-        SVOTC_loopring/Screen Shot 2018-10-07 at 8.58.25 AM.png
+        https://github.com/davidmd222/SVOTC_loopring/blob/master/Screen%20Shot%202018-10-07%20at%208.58.25%20AM.png
       )
         
       
@@ -20,7 +20,7 @@ Since all users will need to be whitelisted prior to trading, users can confiden
 > SVOTC will focus on Tokenized Securities (mostly tokenized startup equity) can be traded peer to peer.
 
 ![](
-        SVOTC_loopring/logoDk.png
+       https://github.com/davidmd222/SVOTC_loopring/blob/master/logoDk.png
       )
 
 SVOTC is not responsive and is designed for desktop browsers only.
