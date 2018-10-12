@@ -25,5 +25,5 @@ Since all users will need to be whitelisted prior to trading, users can confiden
 
 SVOTC is not responsive and is designed for desktop browsers only.
 
-####This project was submitted to ETH San Francisco Hackathon October 2018 for LOOPRING's "make a DEX" challenge.
+#### This project was submitted to ETH San Francisco Hackathon October 2018 for LOOPRING's "make a DEX" challenge.
 ##### https://devpost.com/software/svotc-a-dex-for-accredited-investors
